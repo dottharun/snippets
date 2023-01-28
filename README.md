@@ -1,3 +1,5 @@
 # snippets 
 
-WSL vscode snippets
+WSL vscode snippets:
+
+For C++ - use 'include'
